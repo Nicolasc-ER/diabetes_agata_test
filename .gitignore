@@ -1,0 +1,11 @@
+
+# Database files
+*.csv
+*.xlsx
+*.parquet
+*.dbf
+*.dta
+*.DTA
+# Image format
+*.jpg
+*.png
