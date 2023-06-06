@@ -9,3 +9,5 @@
 # Image format
 *.jpg
 *.png
+## cache py 
+*.pyc
